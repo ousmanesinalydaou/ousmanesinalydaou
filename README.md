@@ -3,7 +3,7 @@
 <!--  Repo: ousmanesinalydaou/profile                -->
 <!-- =============================================== -->
 
-# 👨‍💻 Hi, I'm Ousmane Daou
+<h1 align="center">Ousmane Daou</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=980&lines=Software+Engineer;MSc+Computer+Science+Student+%40+University+of+Debrecen;AI+%7C+Cloud+%7C+NoSQL+Developer;Building+Intelligent+Systems;OpenGL+Graphics+%26+Geometric+Computing" />
@@ -11,148 +11,214 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ousmanesinalydaou&style=for-the-badge&color=00f7ff" />
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/ousmanedaou/">
     <img src="https://img.shields.io/badge/LinkedIn-ousmanedaou-00f7ff?style=for-the-badge&logo=linkedin&logoColor=001018" />
   </a>
 </p>
 
----
-
-# 🌍 About Me
-
-🎓 **MSc Computer Science Student** at **University of Debrecen (Hungary)**  
-🌍 **From Mali 🇲🇱**  
-💼 **CEO** of **DAOU ENTERPRISE**  
-
-I build systems where **data + intelligence + scalable architecture** meet — from **NoSQL applications** and **cloud services** to **AI-powered search** and **interactive OpenGL graphics**.
-
-⚡ Interests
-- Artificial Intelligence & Intelligent Systems
-- Cloud Computing & Distributed Systems
-- Data Mining & Machine Learning
-- NoSQL Distributed Databases
-- Computer Graphics (OpenGL) & Geometric Computing
-- Cybersecurity & UI/UX (as supporting disciplines)
-
----
-
-# 🧠 MSc Thesis
-
-**Title:** Application Development for a NoSQL Database  
-**Supervisor:** **Dr. Vágner Anikó Szilvia**  
-**NoSQL technologies explored:** **MongoDB • Cassandra • ArangoDB**
-
----
-
-# ⌬ Engineering Visuals (Animated)
-
-> Add these files to `assets/` in this repository to make them render:
-> - `assets/wireframe-cube-axis.gif`
-> - `assets/parametric-curve.gif`
-> - `assets/hermite-curve.gif`
-
 <p align="center">
-  <img width="49%" src="assets/wireframe-cube-axis.gif" alt="Rotating wireframe cube with axis triad (neon cyan)" />
-  <img width="49%" src="assets/parametric-curve.gif" alt="Animated parametric curve (Lissajous / hypotrochoid) (neon cyan)" />
+  <code>📍 Mali 🇲🇱</code> &nbsp; <code>🎓 MSc CS @ University of Debrecen</code> &nbsp; <code>💼 CEO @ DAOU ENTERPRISE</code>
 </p>
 
-<p align="center">
-  <img width="80%" src="assets/hermite-curve.gif" alt="Hermite curve animation (neon cyan)" />
+<hr/>
+
+<!-- ====================== -->
+<!--  ENGINEERING SNAPSHOT  -->
+<!-- ====================== -->
+
+<h2>∑ Engineering Snapshot</h2>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+<b>Core domains</b>
+
+- <b>AI & Data Mining</b> (retrieval, prediction, clustering, decision systems)
+- <b>NoSQL & Distributed Data</b> (MongoDB, Cassandra, ArangoDB)
+- <b>Cloud Architecture</b> (scalable services, reliability, automation)
+- <b>Backend Engineering</b> (FastAPI, clean APIs, performance-driven design)
+- <b>Computer Graphics</b> (OpenGL: curves, cameras, animation, interaction)
+
+<b>Guiding principle</b><br/>
+<sub><i>“Technology becomes powerful when it solves real problems.”</i></sub>
+
+</td>
+<td width="45%" valign="top">
+
+<b>Focus matrix</b>
+
+```text
+AI / ML           ██████████  10/10
+NoSQL Systems     ██████████  10/10
+Cloud Computing   █████████░   9/10
+Backend APIs      █████████░   9/10
+OpenGL Graphics   ████████░░   8/10
+```
+
+<b>Now learning</b>
+
+- Advanced optimization methods
+- Model checking & reactive systems
+- Scalable NoSQL architectures
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<!-- ============ -->
+<!--  THESIS BOX  -->
+<!-- ============ -->
+
+<h2>🎓 MSc Thesis</h2>
+
+<p>
+<b>Title:</b> Application Development for a NoSQL Database<br/>
+<b>Supervisor:</b> Dr. Vágner Anikó Szilvia<br/>
+<b>Exploring:</b> MongoDB • Cassandra • ArangoDB
 </p>
 
----
+<hr/>
 
-# 🚀 Tech Stack
+<!-- ================= -->
+<!--  TECH BLUEPRINT   -->
+<!-- ================= -->
 
-## Programming Languages
-![Python](https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python&logoColor=001018)
-![C++](https://img.shields.io/badge/C%2B%2B-00f7ff?style=for-the-badge&logo=cplusplus&logoColor=001018)
-![JavaScript](https://img.shields.io/badge/JavaScript-00f7ff?style=for-the-badge&logo=javascript&logoColor=001018)
-![PHP](https://img.shields.io/badge/PHP-00f7ff?style=for-the-badge&logo=php&logoColor=001018)
-![C%23](https://img.shields.io/badge/C%23-00f7ff?style=for-the-badge&logo=dotnet&logoColor=001018)
-![SQL](https://img.shields.io/badge/SQL-00f7ff?style=for-the-badge&logo=databricks&logoColor=001018)
+<h2>⚙️ Tech Blueprint</h2>
 
-## Frameworks / UI
-![React](https://img.shields.io/badge/React-00f7ff?style=for-the-badge&logo=react&logoColor=001018)
-![FastAPI](https://img.shields.io/badge/FastAPI-00f7ff?style=for-the-badge&logo=fastapi&logoColor=001018)
-![Blazor](https://img.shields.io/badge/Blazor-00f7ff?style=for-the-badge&logo=blazor&logoColor=001018)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00f7ff?style=for-the-badge&logo=tailwindcss&logoColor=001018)
+<p>
+<b>Languages</b><br/>
+<img src="https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python&logoColor=001018" />
+<img src="https://img.shields.io/badge/C%2B%2B-00f7ff?style=for-the-badge&logo=cplusplus&logoColor=001018" />
+<img src="https://img.shields.io/badge/C%23-00f7ff?style=for-the-badge&logo=dotnet&logoColor=001018" />
+<img src="https://img.shields.io/badge/JavaScript-00f7ff?style=for-the-badge&logo=javascript&logoColor=001018" />
+<img src="https://img.shields.io/badge/PHP-00f7ff?style=for-the-badge&logo=php&logoColor=001018" />
+<img src="https://img.shields.io/badge/SQL-00f7ff?style=for-the-badge&logo=databricks&logoColor=001018" />
+</p>
 
-## Cloud / DevOps / Collaboration
-![Docker](https://img.shields.io/badge/Docker-00f7ff?style=for-the-badge&logo=docker&logoColor=001018)
-![Git](https://img.shields.io/badge/Git-00f7ff?style=for-the-badge&logo=git&logoColor=001018)
-![Jira](https://img.shields.io/badge/Jira-00f7ff?style=for-the-badge&logo=jira&logoColor=001018)
-![Confluence](https://img.shields.io/badge/Confluence-00f7ff?style=for-the-badge&logo=confluence&logoColor=001018)
+<p>
+<b>Frameworks / UI</b><br/>
+<img src="https://img.shields.io/badge/FastAPI-00f7ff?style=for-the-badge&logo=fastapi&logoColor=001018" />
+<img src="https://img.shields.io/badge/React-00f7ff?style=for-the-badge&logo=react&logoColor=001018" />
+<img src="https://img.shields.io/badge/Blazor-00f7ff?style=for-the-badge&logo=blazor&logoColor=001018" />
+<img src="https://img.shields.io/badge/TailwindCSS-00f7ff?style=for-the-badge&logo=tailwindcss&logoColor=001018" />
+</p>
 
-## Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-00f7ff?style=for-the-badge&logo=mongodb&logoColor=001018)
-![Cassandra](https://img.shields.io/badge/Cassandra-00f7ff?style=for-the-badge&logo=apachecassandra&logoColor=001018)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-00f7ff?style=for-the-badge&logo=arangodb&logoColor=001018)
-![MySQL](https://img.shields.io/badge/MySQL-00f7ff?style=for-the-badge&logo=mysql&logoColor=001018)
+<p>
+<b>Databases</b><br/>
+<img src="https://img.shields.io/badge/MongoDB-00f7ff?style=for-the-badge&logo=mongodb&logoColor=001018" />
+<img src="https://img.shields.io/badge/Cassandra-00f7ff?style=for-the-badge&logo=apachecassandra&logoColor=001018" />
+<img src="https://img.shields.io/badge/ArangoDB-00f7ff?style=for-the-badge&logo=arangodb&logoColor=001018" />
+<img src="https://img.shields.io/badge/MySQL-00f7ff?style=for-the-badge&logo=mysql&logoColor=001018" />
+</p>
 
----
+<p>
+<b>Tools</b><br/>
+<img src="https://img.shields.io/badge/Docker-00f7ff?style=for-the-badge&logo=docker&logoColor=001018" />
+<img src="https://img.shields.io/badge/Git-00f7ff?style=for-the-badge&logo=git&logoColor=001018" />
+<img src="https://img.shields.io/badge/Jira-00f7ff?style=for-the-badge&logo=jira&logoColor=001018" />
+<img src="https://img.shields.io/badge/Confluence-00f7ff?style=for-the-badge&logo=confluence&logoColor=001018" />
+</p>
 
-# 📊 GitHub Statistics
+<hr/>
+
+<!-- ================= -->
+<!--  PROJECT PANELS   -->
+<!-- ================= -->
+
+<h2>🚀 Featured Projects (No links)</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+<h3>🩺 HealthSage</h3>
+
+<b>AI Healthcare Search Assistant</b>
+
+- NoSQL-powered search patterns
+- AI-generated insights
+- fast API performance design
+
+<sub><b>Stack:</b> FastAPI • React • Python • Cassandra / Amazon Keyspaces</sub>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>☁️ Intelligent Document Summarizer</h3>
+
+<b>Cloud + Azure OpenAI</b>
+
+- summarization pipeline
+- audio summaries (TTS)
+- cloud-first architecture
+
+<sub><b>Stack:</b> Blazor WebAssembly • Azure OpenAI • C#</sub>
+
+</td>
+<td valign="top" width="33%">
+
+<h3>🎮 OpenGL Graphics</h3>
+
+<b>Interactive geometry</b>
+
+- Hermite curve editor
+- cameras & transforms
+- animation systems
+
+<sub><b>Focus:</b> OpenGL • Geometric computing</sub>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<!-- ===================== -->
+<!--  STATS & ANALYTICS    -->
+<!-- ===================== -->
+
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ousmanesinalydaou&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=ousmanesinalydaou&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 📈 Contribution Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ousmanesinalydaou&theme=tokyo-night&area=true" />
 </p>
-
----
-
-# 🌍 Global Developer Heatmap
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousmanesinalydaou&theme=tokyonight" />
-</p>
-
----
-
-# 🛰 Satellite Style Contribution Map
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ousmanesinalydaou&theme=tokyonight" />
 </p>
 
----
-
-# 🪐 Skill Orbit Visualization
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,php,cs,react,fastapi,blazor,docker,mongodb,mysql,git&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ousmanesinalydaou&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousmanesinalydaou&theme=tokyonight" />
 </p>
 
----
-
-# 📊 GitHub Productivity Dashboard
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ousmanesinalydaou&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ousmanesinalydaou&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ousmanesinalydaou&theme=tokyonight" />
 </p>
 
----
+<hr/>
 
-# 🏆 GitHub Achievements
+<!-- ===================== -->
+<!--  ACHIEVEMENTS + SNAKE -->
+<!-- ===================== -->
+
+<h2>🏆 Achievements</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ousmanesinalydaou&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
----
-
-# 🐍 Contribution Snake Animation
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -161,61 +227,36 @@ I build systems where **data + intelligence + scalable architecture** meet — f
   </picture>
 </p>
 
----
+<hr/>
 
-# 🚀 Featured Projects (No links)
+<!-- ================= -->
+<!--  RESEARCH + COLLAB -->
+<!-- ================= -->
 
-## 🩺 HealthSage
-**AI Healthcare Search Assistant** integrating:
-- AI-powered medical insights
-- intelligent medical search & retrieval
-- scalable NoSQL backend patterns
+<h2>📚 Research Interests</h2>
 
-**Tech:** FastAPI • React • Cassandra / Amazon Keyspaces • Python
+<ul>
+  <li>Artificial Intelligence</li>
+  <li>Data Mining</li>
+  <li>Cloud Computing</li>
+  <li>Distributed Databases / NoSQL</li>
+  <li>Model Checking & Reactive Systems</li>
+  <li>Optimization Methods</li>
+</ul>
 
----
+<h2>🤝 Collaboration</h2>
 
-## ☁️ Intelligent Document Summarizer
-Cloud application for summarization with audio output:
-- document extraction & summarization
-- AI text analysis
-- speech generation (audio summaries)
-
-**Tech:** Blazor WebAssembly • Azure OpenAI • C#
-
----
-
-## 🎮 OpenGL Graphics Projects
-Engineering-style interactive graphics:
-- Hermite Curve Editor
-- interactive 3D scenes (cubes/spheres)
-- camera movement systems
-- animated objects & simulations
-
----
-
-# 📚 Research Interests
-Artificial Intelligence  
-Data Mining  
-Cloud Computing  
-Distributed Databases  
-Model Checking  
-Reactive Systems  
-Optimization Methods  
-
----
-
-# 🌍 Vision
-Build intelligent software systems combining **AI, data, and cloud computing** to solve real-world problems and support technological innovation—especially with impact in **healthcare, education, and digital transformation**.
-
----
-
-# 🤝 Collaboration
 Interested in collaborating on:
-- AI applications  
-- cloud systems  
-- data science projects  
-- NoSQL/distributed database engineering  
-- OpenGL / interactive graphics tooling  
+- AI applications
+- cloud systems
+- NoSQL/distributed database engineering
+- data mining & ML tooling
+- OpenGL / interactive graphics
 
-⭐ Building the future with **data, intelligence, and software engineering**
+<p>
+<b>LinkedIn:</b> https://www.linkedin.com/in/ousmanedaou/
+</p>
+
+<p align="center">
+  <sub>⭐ Building the future with <b>data</b>, <b>intelligence</b>, and <b>software engineering</b></sub>
+</p>
