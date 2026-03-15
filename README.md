@@ -80,8 +80,6 @@ I’m a software engineer and MSc student building **intelligent, data-driven ap
 
 **Tech Stack:** FastAPI • React • Python • Cassandra / Amazon Keyspaces • AI APIs
 
-- Repository: **(add link here)**
-
 ---
 
 ### ☁️ Intelligent Document Summarizer (Cloud & AI)
@@ -91,8 +89,6 @@ A cloud-based application that:
 - Uses **Azure OpenAI** services
 
 **Tech Stack:** Blazor WebAssembly • Microsoft Azure OpenAI • C#
-
-- Repository: **(add link here)**
 
 ---
 
@@ -104,8 +100,6 @@ Interactive graphics applications using OpenGL, including:
 - Interactive animations (rotations, bridges, etc.)
 
 Inspired by *Computer Graphics Through OpenGL*.
-
-- Repository: **(add link here)**
 
 ---
 
