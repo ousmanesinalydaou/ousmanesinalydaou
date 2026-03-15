@@ -23,10 +23,6 @@
 
 <hr/>
 
-<!-- ====================== -->
-<!--  ENGINEERING SNAPSHOT  -->
-<!-- ====================== -->
-
 <h2>∑ Engineering Snapshot</h2>
 
 <table>
@@ -69,10 +65,6 @@ OpenGL Graphics   ████████░░   8/10
 
 <hr/>
 
-<!-- ============ -->
-<!--  THESIS BOX  -->
-<!-- ============ -->
-
 <h2>🎓 MSc Thesis</h2>
 
 <p>
@@ -83,51 +75,50 @@ OpenGL Graphics   ████████░░   8/10
 
 <hr/>
 
-<!-- ================= -->
-<!--  TECH BLUEPRINT   -->
-<!-- ================= -->
-
 <h2>⚙️ Tech Blueprint</h2>
+
+<!--
+Color scheme notes (neon on dark):
+- Primary neon: 00F7FF
+- Accents: 7C4DFF (violet), FF2E88 (magenta), 00FF87 (green)
+- Text/dark: 001018
+-->
 
 <p>
 <b>Languages</b><br/>
-<img src="https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python&logoColor=001018" />
-<img src="https://img.shields.io/badge/C%2B%2B-00f7ff?style=for-the-badge&logo=cplusplus&logoColor=001018" />
-<img src="https://img.shields.io/badge/C%23-00f7ff?style=for-the-badge&logo=dotnet&logoColor=001018" />
-<img src="https://img.shields.io/badge/JavaScript-00f7ff?style=for-the-badge&logo=javascript&logoColor=001018" />
-<img src="https://img.shields.io/badge/PHP-00f7ff?style=for-the-badge&logo=php&logoColor=001018" />
-<img src="https://img.shields.io/badge/SQL-00f7ff?style=for-the-badge&logo=databricks&logoColor=001018" />
+<img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=001018" />
+<img src="https://img.shields.io/badge/C%2B%2B-7C4DFF?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/C%23-FF2E88?style=for-the-badge&logo=dotnet&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/JavaScript-00FF87?style=for-the-badge&logo=javascript&logoColor=001018" />
+<img src="https://img.shields.io/badge/PHP-2E9EF7?style=for-the-badge&logo=php&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/SQL-FFD166?style=for-the-badge&logo=databricks&logoColor=001018" />
 </p>
 
 <p>
 <b>Frameworks / UI</b><br/>
-<img src="https://img.shields.io/badge/FastAPI-00f7ff?style=for-the-badge&logo=fastapi&logoColor=001018" />
-<img src="https://img.shields.io/badge/React-00f7ff?style=for-the-badge&logo=react&logoColor=001018" />
-<img src="https://img.shields.io/badge/Blazor-00f7ff?style=for-the-badge&logo=blazor&logoColor=001018" />
-<img src="https://img.shields.io/badge/TailwindCSS-00f7ff?style=for-the-badge&logo=tailwindcss&logoColor=001018" />
+<img src="https://img.shields.io/badge/FastAPI-00F7FF?style=for-the-badge&logo=fastapi&logoColor=001018" />
+<img src="https://img.shields.io/badge/React-00FF87?style=for-the-badge&logo=react&logoColor=001018" />
+<img src="https://img.shields.io/badge/Blazor-7C4DFF?style=for-the-badge&logo=blazor&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/TailwindCSS-2E9EF7?style=for-the-badge&logo=tailwindcss&logoColor=001018" />
 </p>
 
 <p>
 <b>Databases</b><br/>
-<img src="https://img.shields.io/badge/MongoDB-00f7ff?style=for-the-badge&logo=mongodb&logoColor=001018" />
-<img src="https://img.shields.io/badge/Cassandra-00f7ff?style=for-the-badge&logo=apachecassandra&logoColor=001018" />
-<img src="https://img.shields.io/badge/ArangoDB-00f7ff?style=for-the-badge&logo=arangodb&logoColor=001018" />
-<img src="https://img.shields.io/badge/MySQL-00f7ff?style=for-the-badge&logo=mysql&logoColor=001018" />
+<img src="https://img.shields.io/badge/MongoDB-00FF87?style=for-the-badge&logo=mongodb&logoColor=001018" />
+<img src="https://img.shields.io/badge/Cassandra-00F7FF?style=for-the-badge&logo=apachecassandra&logoColor=001018" />
+<img src="https://img.shields.io/badge/ArangoDB-FFD166?style=for-the-badge&logo=arangodb&logoColor=001018" />
+<img src="https://img.shields.io/badge/MySQL-2E9EF7?style=for-the-badge&logo=mysql&logoColor=ffffff" />
 </p>
 
 <p>
 <b>Tools</b><br/>
-<img src="https://img.shields.io/badge/Docker-00f7ff?style=for-the-badge&logo=docker&logoColor=001018" />
-<img src="https://img.shields.io/badge/Git-00f7ff?style=for-the-badge&logo=git&logoColor=001018" />
-<img src="https://img.shields.io/badge/Jira-00f7ff?style=for-the-badge&logo=jira&logoColor=001018" />
-<img src="https://img.shields.io/badge/Confluence-00f7ff?style=for-the-badge&logo=confluence&logoColor=001018" />
+<img src="https://img.shields.io/badge/Docker-2E9EF7?style=for-the-badge&logo=docker&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Git-FF2E88?style=for-the-badge&logo=git&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Jira-7C4DFF?style=for-the-badge&logo=jira&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Confluence-00F7FF?style=for-the-badge&logo=confluence&logoColor=001018" />
 </p>
 
 <hr/>
-
-<!-- ================= -->
-<!--  PROJECT PANELS   -->
-<!-- ================= -->
 
 <h2>🚀 Featured Projects (No links)</h2>
 
@@ -177,10 +168,6 @@ OpenGL Graphics   ████████░░   8/10
 
 <hr/>
 
-<!-- ===================== -->
-<!--  STATS & ANALYTICS    -->
-<!-- ===================== -->
-
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -208,14 +195,19 @@ OpenGL Graphics   ████████░░   8/10
 
 <hr/>
 
-<!-- ===================== -->
-<!--  ACHIEVEMENTS + SNAKE -->
-<!-- ===================== -->
-
 <h2>🏆 Achievements</h2>
 
+<!-- Fixed: ensure the trophy card renders reliably and is centered -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ousmanesinalydaou&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ousmanesinalydaou&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=6"
+    alt="GitHub trophies"
+  />
+</p>
+
+<!-- Optional: add a slim “achievement strip” feel -->
+<p align="center">
+  <sub><b>Consistency • Impact • Continuous Learning</b></sub>
 </p>
 
 <h2>🐍 Contribution Snake</h2>
@@ -228,10 +220,6 @@ OpenGL Graphics   ████████░░   8/10
 </p>
 
 <hr/>
-
-<!-- ================= -->
-<!--  RESEARCH + COLLAB -->
-<!-- ================= -->
 
 <h2>📚 Research Interests</h2>
 
